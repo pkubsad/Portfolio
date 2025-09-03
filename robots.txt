@@ -2,4 +2,5 @@ User-agent: *
 Disallow:
 
 # sitemap location - update to exact URL used
-Sitemap: https://pkubsad.github.io/sitemap.xml
+Sitemap: https://pkubsad.github.io/Portfolio/sitemap.xml
+
